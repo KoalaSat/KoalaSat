@@ -1,5 +1,3 @@
-LN⚡: koalasat@getalby.com
-
-https://tippin.me/@koala_sat
+⚡ https://getalby.com/p/koalasat
 
 Made with 🐨
