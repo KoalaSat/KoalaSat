@@ -1,6 +1,6 @@
 ⚡ https://getalby.com/p/koalasat
 
-BTC: 3Ka47kmcyA7RKTqcCS6bXHSarEfMzvuXaN
+BTC: bc1qrfqpuftdz55z35prchlt3stcldzhghht5lledf
 
 Made with 🐨
 
