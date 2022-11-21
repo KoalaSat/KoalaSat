@@ -1,4 +1,4 @@
-⚡ https://getalby.com/p/koalasat
+⚡ koalasat@getalby.com
 
 BTC: bc1qrfqpuftdz55z35prchlt3stcldzhghht5lledf
 
