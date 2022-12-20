@@ -1,7 +1,5 @@
 ⚡ koalasat@getalby.com
 
-BTC: bc1qrfqpuftdz55z35prchlt3stcldzhghht5lledf
-
 Made with 🐨
 
 NOSTR: 645681b9d067b1a362c4bee8ddff987d2466d49905c26cb8fec5e6fb73af5c84
