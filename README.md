@@ -2,7 +2,7 @@
 
 Made with 🐨
 
-⚡ koalasat@getalby.com
+⚡ [koalasat@getalby.com](https://getalby.com/p/koalasat)
 
 Mintter: http://mintter.koalasat.xyz
 
