@@ -9,3 +9,7 @@ Made with 🐨
 Mintter: http://mintter.koalasat.xyz
 
 nostr: [npub1v3tgrwwsv7c6xckyhm5dmluc05jxd4yeqhpxew87chn0kua0tjzqc6yvjh](https://njump.me/npub1v3tgrwwsv7c6xckyhm5dmluc05jxd4yeqhpxew87chn0kua0tjzqc6yvjh)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koalasat&show_icons=true&theme=dracula" width="600" height="300"/>
+</div>
