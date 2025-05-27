@@ -3,8 +3,8 @@
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koalasat&show_icons=true&theme=dracula" width="600"/>
-  <img src="https://forthebadge.com/images/featured/featured-powered-by-electricity.svg" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=koalasat&theme=dark&layout=compact" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koalasat&theme=dark&layout=compact" width="600"/>
 </div>
 
 Made with 🐨
