@@ -11,8 +11,8 @@ Made with 🐨
 
 ⚡ [koalasat@getalby.com](https://getalby.com/p/koalasat)
 
-Contact: http://simplex.koalasat.xys
+Contact: http://simplex.koalasat.xyz
 
-nostr: http://nostr.koalasat.xys
+nostr: http://nostr.koalasat.xyz
 
 Mintter: http://mintter.koalasat.xyz
