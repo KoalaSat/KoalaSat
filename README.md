@@ -15,4 +15,6 @@ Contact: http://simplex.koalasat.xyz
 
 nostr: http://nostr.koalasat.xyz
 
+XMPP: koalasat@5222.de
+
 Mintter: http://mintter.koalasat.xyz
