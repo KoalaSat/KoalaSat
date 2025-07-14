@@ -11,9 +11,9 @@ Made with 🐨
 
 ⚡ [koalasat@getalby.com](https://getalby.com/p/koalasat)
 
-Contact: http://simplex.koalasat.xyz
-
 nostr: http://nostr.koalasat.xyz
+
+SimpleX: http://simplex.koalasat.xyz
 
 XMPP: koalasat@5222.de
 
