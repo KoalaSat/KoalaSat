@@ -9,8 +9,6 @@
 
 Made with 🐨
 
-⚡ [koalasat@getalby.com](https://getalby.com/p/koalasat)
-
 nostr: http://nostr.koalasat.xyz
 
 SimpleX: http://simplex.koalasat.xyz
